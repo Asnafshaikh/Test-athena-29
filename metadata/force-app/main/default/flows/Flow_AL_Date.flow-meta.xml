@@ -47,5 +47,5 @@
             <targetReference>ScreenAL</targetReference>
         </connector>
     </start>
-    <status>Draft</status>
+    <status>Obsolete</status>
 </Flow>
